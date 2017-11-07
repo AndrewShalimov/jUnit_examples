@@ -12,6 +12,7 @@ public class MainClass {
     }
 
     public MainClass() {
+        System.out.println("-- Do something.");
 
     }
 }
